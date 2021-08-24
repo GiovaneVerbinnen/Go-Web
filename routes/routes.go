@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/GiovaneVerbinnen/controllers"
+	"github.com/GiovaneVerbinnen/Go-Web/controllers"
 )
 
 func CarregaRotas() {

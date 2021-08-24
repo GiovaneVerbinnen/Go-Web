@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"text/template"
 
-	"github.com/GiovaneVerbinnen/routes"
+	"github.com/GiovaneVerbinnen/Go-Web/routes"
 	_ "github.com/lib/pq"
 )
 

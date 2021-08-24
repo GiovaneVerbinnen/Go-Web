@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/GiovaneVerbinnen/models"
+	"github.com/GiovaneVerbinnen/Go-Web/models"
 )
 
 var temp = template.Must(template.ParseGlob("templates/*.html"))
